@@ -1,4 +1,3 @@
-layout_spectrum: 0.14392798650078475
 typography_spectrum: 0.9407081275712699
 color:
   brandStrength: 0.9389491826295853
@@ -6,9 +5,11 @@ color:
   saturation: 0.017961961217224598
   rhythmicContrast: 0.8788260484579951
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.14392798650078475
 name: Dario
+description: Hallo welt hier
